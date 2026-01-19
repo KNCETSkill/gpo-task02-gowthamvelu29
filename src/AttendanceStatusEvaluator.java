@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Attendance{
+public class AttendanceStatusEvaluator{
   public static void main(String[] args){
     Scanner scanner=new Scanner(System.in);
     int attendance=scanner.nextInt();
